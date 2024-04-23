@@ -1,0 +1,2 @@
+org.jdc.filestore.local.LocalFileStoreAutoConfiguration
+org.jdc.filestore.db.DbFileStoreAutoConfiguration
